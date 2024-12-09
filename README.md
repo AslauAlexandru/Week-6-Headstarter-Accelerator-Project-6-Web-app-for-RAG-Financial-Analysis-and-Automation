@@ -2,7 +2,7 @@
 
 This Google Colab is a Web app for RAG [**Week_5_Headstarter_Accelerator_Project_5_Web_app_for_Codebase_RAG_Completed.ipynb**]().
 
-This Google Colab is only Web Scraping for Financial Analysis with LLMs [**Web_Scraping_Week_6_Headstarter_Accelerator_Project_6_Web_Scraping_for_Financial_Analysis_with_LLMs_for_Financial_Analysis_&_Automation.ipynb**]().
+This Google Colab is only Web Scraping for Financial Analysis with LLMs [**Web_Scraping_Week_6_Headstarter_Accelerator_Project_6_Web_Scraping_for_Financial_Analysis_with_LLMs_for_Financial_Analysis_&_Automation.ipynb**](https://github.com/AslauAlexandru/Week-6-Headstarter-Accelerator-Project-6-Web-app-for-RAG-Financial-Analysis-and-Automation/blob/main/Web_Scraping_Week_6_Headstarter_Accelerator_Project_6_Web_Scraping_for_Financial_Analysis_with_LLMs_for_Financial_Analysis_%26_Automation.ipynb).
 
 I have done this: Research Automation.
 
