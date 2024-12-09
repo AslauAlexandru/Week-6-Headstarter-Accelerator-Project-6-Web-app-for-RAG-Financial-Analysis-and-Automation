@@ -1,6 +1,6 @@
 # Week 6 Headstarter Accelerator Project 6 Web app for RAG Financial Analysis and Automation
 
-I have done this:  1. Research Automation.
+I have done this: Research Automation.
 
 ## Financial Analysis & Automation with LLMs
 
