@@ -1,6 +1,12 @@
 # Week 6 Headstarter Accelerator Project 6 Web app for RAG Financial Analysis and Automation
 
+This Google Colab is a Web app for RAG [**Week_5_Headstarter_Accelerator_Project_5_Web_app_for_Codebase_RAG_Completed.ipynb**]().
+
+This Google Colab is only RAG [**Codebase_RAG_Completed_without_Web_app.ipynb**]().
+
 I have done this: Research Automation.
+
+## Statement for this project
 
 ## Financial Analysis & Automation with LLMs
 
