@@ -44,13 +44,21 @@ https://www.geeksforgeeks.org/get-financial-data-from-yahoo-finance-with-python/
 ## Resources
 
 [Code, Code for finding Stocks with Natural Language](https://colab.research.google.com/github/team-headstart/Financial-Analysis-and-Automation-with-LLMs/blob/main/Financial_Analysis_%26_Automation.ipynb)
+
 [Article, What is Quantitative Analysis?](https://www.investopedia.com/articles/investing/041114/simple-overview-quantitative-analysis.asp)
+
 [Article, Text Classification with LLMs](https://hussainpoonawala.medium.com/text-classification-with-large-language-models-llms-a23c731a687e)
+
 [Paper, Sentiment trading with Large Language Models](https://www.sciencedirect.com/science/article/pii/S1544612324002575)
+
 [Blog, Stock Market Sentiment Prediction with OpenAI](https://www.insightbig.com/post/stock-market-sentiment-prediction-with-openai-and-python)
+
 [Website, Stock Market Data](https://www.sec.gov/data-research/sec-markets-data)
+
 [Blog, Serving an LLM Application as an API Endpoint](https://www.datacamp.com/tutorial/serving-an-llm-application-as-an-api-endpoint-using-fastapi-in-python)
+
 [Website, Nasdaq Stock Screener](https://www.nasdaq.com/market-activity/stocks/screener)
+
 [Blog, Accelerating LLM operations with parallel-parrot](https://bradito.me/blog/parallel-parrot/)
 
 
