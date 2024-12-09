@@ -1,6 +1,6 @@
 # Week 6 Headstarter Accelerator Project 6 Web app for RAG Financial Analysis and Automation
 
-
+I have done this:  1. Research Automation.
 
 ## Financial Analysis & Automation with LLMs
 
@@ -15,7 +15,6 @@ Company X, that is looking to leverage LLMs to gain a competitive edge in stock 
 
 Pick 1 of the following 3 pathways to complete this project:
 
-I have done this: 
 1. Research Automation: Build a system that can find relevant stocks based 
 on natural language queries from the user (e.g. "What are companies that build data centers?"). 
 All stocks on the New York Stock Exchange must also be searchable by metrics such as 
